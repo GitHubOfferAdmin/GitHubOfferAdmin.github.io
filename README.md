@@ -13,6 +13,12 @@ C language-Next generation
 
 Contact email:1091251059@qq.com
 
+我不会GitHub的文字排版 
+复制下来应该有回车
+I don't know GitHub typesetting
+There should be a line break after copying
+
+
 
 核心部分:
 
