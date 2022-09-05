@@ -11,7 +11,7 @@ C language-Next generation
 
 登记号:国作登字-2021-A-01233328
 
-Contact email:1091251059@qq.com
+Contact email:qbot@qq.com
 
 我不会GitHub的文字排版 
 复制下来应该有回车
